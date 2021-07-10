@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "node-sass": "^6.0.1"
+  }
+}
